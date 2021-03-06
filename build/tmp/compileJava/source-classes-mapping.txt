@@ -2,3 +2,5 @@ map/ExemploHashMap.java
  map.ExemploHashMap
 map/ExemploTreeMap.java
  map.ExemploTreeMap
+map/ExemploHashTable.java
+ map.ExemploHashTable
